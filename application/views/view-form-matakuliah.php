@@ -23,11 +23,11 @@ method="post">
         </td>
     </tr>
     <tr>
-        >Kode MTK</th>
+        <th>Kode MTK</th>
         <th>:</th>
-    <td>
-        <input type="text" name="kode" id="kode">
-    </td>
+        <td>
+            <input type="text" name="kode" id="kode">
+        </td>
     </tr>
     <tr>
         <th>Nama MTK</th>
@@ -37,27 +37,27 @@ method="post">
     </td>
     </tr>
     <tr>
-    <th>SKS</th>
-    <td>:</td>
-    <td>
-    <select name="sks" id="sks">
-    <option value="">Pilih SKS</option>
-    <option value="2">2</option>
-    <option value="3">3</option>
-    <option value="4">4</option>
-    </select>
-    </td>
+        <th>SKS</th>
+        <td>:</td>
+        <td>
+             <select name="sks" id="sks">
+                <option value="">Pilih SKS</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+            </select>
+        </td>
     </tr>
     <tr>
-    <td colspan="3" align="center">
-    <input type="submit" value="Submit">
-    </td>
+        <td colspan="3" align="center">
+            <input type="submit" value="Submit">
+        </td>
     </tr>
 
 
-</table>        
+    </table>        
 
-        </form>
+    </form>
     </center>
 </body>
 </html>
